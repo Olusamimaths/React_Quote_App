@@ -1,4 +1,9 @@
-A Simple Quote App
+A Simple Quote App in React.
+
+## Technologies
+  - React
+  - Axios
+  - Forismati Quote Api
 
 ## Available Scripts
 
